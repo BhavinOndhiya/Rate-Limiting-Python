@@ -1,0 +1,31 @@
+Username,Repo Name,Stars,Forks,Language,Description,README Found
+torvalds,1590A,435,18,OpenSCAD,Random odd guitar pedal design in kicad,Yes
+torvalds,GuitarPedal,1135,38,OpenSCAD,Linus learns analog circuits,Yes
+torvalds,libdc-for-dirk,282,53,C,"Only use for syncing with Dirk, don't use for anything else",Yes
+torvalds,libgit2,229,22,C,"A cross-platform, linkable library implementation of Git that you can use in your application.",Yes
+torvalds,linux,205851,58045,C,Linux kernel source tree,Yes
+guido,c-esercizi,1,0,C,,No
+guido,casa,3,0,,tutorial da casa,Yes
+guido,cautious-guacamole,1,0,,getting started with a simple react game and create-react,No
+guido,diagnostics,1,0,,This repository contains the source code for various .NET Core runtime diagnostic tools and documents.,Yes
+guido,fluent-nhibernate,3,0,C#,Fluent NHibernate!,No
+octocat,boysenberry-repo-1,379,24,,Testing,Yes
+octocat,git-consortium,486,138,,This repo is for demonstration purposes only.,Yes
+octocat,hello-worId,633,255,,My first repository on GitHub.,Yes
+octocat,Hello-World,3214,3966,,My first repository on GitHub!,Yes
+octocat,linguist,614,236,Ruby,"Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",Yes
+microsoft,.github,122,179,,Default Community Health/Policy Files for the Microsoft organization on GitHub,Yes
+microsoft,.Net-Interactive-Kernels-ADS,4,2,Jupyter Notebook,Install and Use .Net Interactive Kernels in ADS,Yes
+microsoft,.NET-Modernization-In-a-Day,48,46,JavaScript,.NET Modernization In a Day workshop content,Yes
+microsoft,0xDeCA10B,591,152,Python,Sharing Updatable Models (SUM) on Blockchain,Yes
+microsoft,2019-ignite-circuit-playground,10,8,Python,Get started with Circuit Playground Express and the Device Simulator Express,Yes
+apple,.github,3,0,,,No
+apple,app-store-server-library-java,237,54,Java,The Java server library for the App Store Server API and App Store Server Notifications.,Yes
+apple,app-store-server-library-node,317,55,TypeScript,The Node.js server library for the App Store Server API and App Store Server Notifications.,Yes
+apple,app-store-server-library-python,233,42,Python,The Python server library for the App Store Server API and App Store Server Notifications.,Yes
+apple,app-store-server-library-swift,268,48,Swift,The Swift server library for the App Store Server API and App Store Server Notifications.,Yes
+BhavinOndhiya,AWT,0,0,JavaScript,AWT Tutorial,Yes
+BhavinOndhiya,Backend-Work,0,0,HTML,,Yes
+BhavinOndhiya,Bhavin,0,0,,,No
+BhavinOndhiya,BhavinOndhiya,0,0,,,Yes
+BhavinOndhiya,BhavinOndhiya.github.io,0,0,,,No

@@ -1,0 +1,50 @@
+{
+    "username": "octocat",
+    "name": "The Octocat",
+    "location": "San Francisco",
+    "public_repos": 8,
+    "followers": 20391,
+    "following": 9,
+    "repos": [
+        {
+            "repo_name": "boysenberry-repo-1",
+            "stars": 379,
+            "forks": 24,
+            "language": null,
+            "description": "Testing",
+            "readme_found": true
+        },
+        {
+            "repo_name": "git-consortium",
+            "stars": 486,
+            "forks": 138,
+            "language": null,
+            "description": "This repo is for demonstration purposes only.",
+            "readme_found": true
+        },
+        {
+            "repo_name": "hello-worId",
+            "stars": 633,
+            "forks": 255,
+            "language": null,
+            "description": "My first repository on GitHub.",
+            "readme_found": true
+        },
+        {
+            "repo_name": "Hello-World",
+            "stars": 3214,
+            "forks": 3966,
+            "language": null,
+            "description": "My first repository on GitHub!",
+            "readme_found": true
+        },
+        {
+            "repo_name": "linguist",
+            "stars": 614,
+            "forks": 236,
+            "language": "Ruby",
+            "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+            "readme_found": true
+        }
+    ]
+}

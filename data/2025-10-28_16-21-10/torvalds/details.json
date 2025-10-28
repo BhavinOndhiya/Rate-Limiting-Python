@@ -1,0 +1,50 @@
+{
+    "username": "torvalds",
+    "name": "Linus Torvalds",
+    "location": "Portland, OR",
+    "public_repos": 9,
+    "followers": 253642,
+    "following": 0,
+    "repos": [
+        {
+            "repo_name": "1590A",
+            "stars": 435,
+            "forks": 18,
+            "language": "OpenSCAD",
+            "description": "Random odd guitar pedal design in kicad",
+            "readme_found": true
+        },
+        {
+            "repo_name": "GuitarPedal",
+            "stars": 1135,
+            "forks": 38,
+            "language": "OpenSCAD",
+            "description": "Linus learns analog circuits",
+            "readme_found": true
+        },
+        {
+            "repo_name": "libdc-for-dirk",
+            "stars": 282,
+            "forks": 53,
+            "language": "C",
+            "description": "Only use for syncing with Dirk, don't use for anything else",
+            "readme_found": true
+        },
+        {
+            "repo_name": "libgit2",
+            "stars": 229,
+            "forks": 22,
+            "language": "C",
+            "description": "A cross-platform, linkable library implementation of Git that you can use in your application.",
+            "readme_found": true
+        },
+        {
+            "repo_name": "linux",
+            "stars": 205851,
+            "forks": 58045,
+            "language": "C",
+            "description": "Linux kernel source tree",
+            "readme_found": true
+        }
+    ]
+}

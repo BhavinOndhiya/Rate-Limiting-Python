@@ -1,0 +1,50 @@
+{
+    "username": "guido",
+    "name": "Guido",
+    "location": "Italy",
+    "public_repos": 13,
+    "followers": 16,
+    "following": 121,
+    "repos": [
+        {
+            "repo_name": "c-esercizi",
+            "stars": 1,
+            "forks": 0,
+            "language": "C",
+            "description": null,
+            "readme_found": false
+        },
+        {
+            "repo_name": "casa",
+            "stars": 3,
+            "forks": 0,
+            "language": null,
+            "description": "tutorial da casa",
+            "readme_found": true
+        },
+        {
+            "repo_name": "cautious-guacamole",
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "description": "getting started with a simple react game and create-react",
+            "readme_found": false
+        },
+        {
+            "repo_name": "diagnostics",
+            "stars": 1,
+            "forks": 0,
+            "language": null,
+            "description": "This repository contains the source code for various .NET Core runtime diagnostic tools and documents.",
+            "readme_found": true
+        },
+        {
+            "repo_name": "fluent-nhibernate",
+            "stars": 3,
+            "forks": 0,
+            "language": "C#",
+            "description": "Fluent NHibernate!",
+            "readme_found": false
+        }
+    ]
+}
