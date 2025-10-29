@@ -1,0 +1,50 @@
+# =============================
+# Python and Environment
+# =============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+env/
+.venv/
+
+# =============================
+# Local Data and Outputs
+# =============================
+data/
+proxy.json
+*.csv
+*.json
+
+# Keep templates but ignore generated files
+!github_users.json        # If this is template input you want tracked
+!requirements.txt         # Ensure this is tracked
+
+# =============================
+# IDE / Editor Files
+# =============================
+.vscode/
+.idea/
+*.code-workspace
+
+# =============================
+# System / Misc
+# =============================
+.DS_Store
+Thumbs.db
+
+# =============================
+# Logs and temporary files
+# =============================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# =============================
+# README auto-generated outputs
+# =============================
+readmes/
