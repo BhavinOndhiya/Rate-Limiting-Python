@@ -1,2 +1,6 @@
-tqdm
 requests
+python-dotenv
+tqdm
+pytz
+black
+flake8
